@@ -81,7 +81,7 @@ const Login = () => {
           sx={{ mt: 2, bgcolor:"#4f1657" }}
           onClick={handleLogin}
         >
-          Login
+          login
         </Button>
         <Typography
           variant="body2"
