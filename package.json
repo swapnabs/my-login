@@ -1,5 +1,4 @@
 {
-  "homepage": "https://swapnabs.github.io/my-login",
   "name": "my-login",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "homepage": "https://swapnabs.github.io/my-login",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
